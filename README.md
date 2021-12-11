@@ -1,2 +1,2 @@
 # graphicalBoard
-Graphical board build
+Graphical board build publish on https://alexoxa1.github.io/graphicalBoard/
